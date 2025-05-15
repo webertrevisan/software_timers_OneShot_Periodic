@@ -1,5 +1,6 @@
 # CODE
 
+bash
 #include <stdio.h> // Biblioteca padrão para entrada e saída (ex: printf)
 #include "freertos/FreeRTOS.h" // Cabeçalho principal do FreeRTOS
 #include "freertos/task.h" // Necessário para criar e gerenciar tarefas
