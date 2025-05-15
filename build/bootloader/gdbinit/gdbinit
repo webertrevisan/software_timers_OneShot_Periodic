@@ -1,0 +1,2 @@
+source C:/Dev/ESTUDO ESP32/freeRTOS/software_timers/build/bootloader/gdbinit/symbols
+source C:/Dev/ESTUDO ESP32/freeRTOS/software_timers/build/bootloader/gdbinit/connect
